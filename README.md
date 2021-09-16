@@ -1,7 +1,7 @@
 # PyTest
 
 
-toto je v1
+toto je v2
 
 
 ## Status:
